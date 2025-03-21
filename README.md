@@ -1,7 +1,5 @@
 # objektinisProg
 
-# Studentų Pažymių Skaičiavimo Programa
-
 Ši programa leidžia įvesti studentų vardus, pavardes, namų darbų rezultatus ir egzamino balus. Programoje galimas pasirinkimas apskaičiuoti galutinį balą naudojant vidurkį arba medianą. Be to, programoje yra galimybė generuoti atsitiktinius studentų balus ir vardus.
 
 ## Funkcionalumas
